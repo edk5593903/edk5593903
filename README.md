@@ -15,6 +15,7 @@ QA Engineer (manual & API) with experience in testing web, mobile and AI-driven 
   - positive/negative API scenarios (200/400, required fields, rate limit 429)  
   - instance authorization check, Selenium UI test template  
   - Repo: [green-api-whatsapp-tests](https://github.com/edk5593903/green-api-whatsapp-tests)
+  - ✓ Project reviewed by GREEN-API — [certificate issued (March 2026)](https://green-api.com/certificates/developer/c0997cf776ae43f9.pdf)
 
 *(по мере появления других проектов сюда можно добавить Python/pytest или другие репозитории)*
 
