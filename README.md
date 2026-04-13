@@ -1,6 +1,12 @@
 # Eduard Kretov
 
 QA Engineer (manual & API) with experience in testing web, mobile and AI-driven products in microservice architecture.
+## About me
+
+- 3+ years in web & API testing (web, iOS, Android) in microservice architecture  
+- Worked with payments, external integrations, Kafka, Kibana, Charles Proxy  
+- Strong focus on manual and API testing, clear communication and documentation  
+- Learning test automation: Python (pytest) and TypeScript (Jest)
 
 - **Focus:** functional & integration testing, API testing, microservices, data consistency
 - **Tech stack:** JavaScript / TypeScript, Python (basic, reading & debugging tests), REST API (Postman), JSON / XML
