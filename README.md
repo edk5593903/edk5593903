@@ -12,6 +12,11 @@ QA Engineer (manual & API) with experience in testing web, mobile and AI-driven 
 - **Tech stack:** JavaScript / TypeScript, Python (basic, reading & debugging tests), REST API (Postman), JSON / XML
 - **Tools:** Jira, Confluence, GitHub / GitLab, Test IT / Qase, Swagger / OpenAPI, Chrome DevTools, Charles Proxy, Kafka, Kibana, Docker (basics)
 - **Now learning:** TypeScript + Jest for automation, Python for test automation, CI/CD basics
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ## Selected projects
 
